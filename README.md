@@ -64,6 +64,6 @@ Step 7: Finalize and Export 7.1 Format the report professionally 7.2 Export as P
 
 
 Output:
-https://docs.google.com/document/d/1JChvs_Iq3bV3ysqbsB84_rsNM84Du9UM/edit?rtpof=true
+https://docs.google.com/document/d/1JChvs_Iq3bV3ysqbsB84_rsNM84Du9UM/edit?usp=sharing&ouid=108564216582215558863&rtpof=true&sd=true
 
 Result:
